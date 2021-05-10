@@ -6,7 +6,7 @@ import NavBar from "components/NavBar";
 
 const Dashboard = () => (
   <>
-    default
+    <NavBar />
     <div className="container">
       <h1 className="text-primary py-3"> Dashboard de Vendas do GIJO</h1>
 
